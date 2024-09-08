@@ -1,6 +1,6 @@
 {
   "name": "ts-npm-template",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A npm package as template lib with TypeScript",
   "scripts": {
     "build": "tsc",
