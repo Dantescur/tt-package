@@ -1,5 +1,5 @@
 {
-  "name": "ts-npm-template",
+  "name": "my-ts-npm-template",
   "version": "1.0.1",
   "description": "A npm package as template lib with TypeScript",
   "scripts": {
@@ -18,14 +18,14 @@
     "lib",
     "typescript"
   ],
-  "homepage": "https://github.com/Dantescur/ts-npm-template",
+  "homepage": "https://github.com/Dantescur/tt-package",
   "bugs": {
-    "url": "https://github.com/Dantescur/ts-npm-template/issues"
+    "url": "https://github.com/Dantescur/tt-package/issues"
   },
   "author": "Daniel Saucedo <daniel@thedaniweb.eu.org> (https://thedaniweb.eu.org)",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Dantescur/ts-npm-template.git"
+    "url": "git+https://github.com/Dantescur/tt-package.git"
   },
   "files": [
     "dist"
