@@ -1,5 +1,5 @@
 {
-  "name": "my-ts-npm-template",
+  "name": "tt-package",
   "version": "1.0.1",
   "description": "A npm package as template lib with TypeScript",
   "scripts": {
